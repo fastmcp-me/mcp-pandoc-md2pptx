@@ -130,6 +130,10 @@ async def handle_call_tool(
         raise ValueError(f"Template document not found: {template}")
     
     try:
+        # Create output directory if it doesn't exist
+        output_path = Path(output_file)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        
         # Prepare conversion arguments
         extra_args = []
         
