@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1200/pandoc-markdown-to-powerpoint)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1200/pandoc-markdown-to-powerpoint)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1200/pandoc-markdown-to-powerpoint)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1200/pandoc-markdown-to-powerpoint)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1200/pandoc-markdown-to-powerpoint)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1200/pandoc-markdown-to-powerpoint)
+
 # mcp-pandoc-md2pptx: Markdown to PowerPoint Converter
 
 A Model Context Protocol server for converting Markdown content to PowerPoint (PPTX) presentations using [pandoc](https://pandoc.org/index.html).
